@@ -62,6 +62,3 @@ elif user_option == "tijeras":
     else :
         st.write("Usuario Gana tijeras corta papel")
 
-
-
-'''
